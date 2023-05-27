@@ -73,4 +73,4 @@ var swiper = new Swiper(".reviews-slider", {
 });
  
 
-/* JS FINALIAZDO */
+/*JS FINALIAZDO*/
